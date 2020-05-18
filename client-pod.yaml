@@ -9,4 +9,4 @@ spec:
     - name: client
       image: enxtur/kube-client
       ports:
-        - containerPort: 80
+        - containerPort: 3000
